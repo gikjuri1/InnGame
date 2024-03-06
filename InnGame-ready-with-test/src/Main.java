@@ -23,7 +23,7 @@ public class Main {
         u1.doVoice();
 
 
-        System.out.println("\n\n========================");
+        System.out.println("\n\n========================!");
         u1.setResources(ResTypes.GOLD,10);
         u1.setResources(ResTypes.ENERGY,20);
         u1.printResources();
